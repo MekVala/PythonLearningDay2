@@ -1,4 +1,4 @@
-# Function Demo
+# Simple Function Demo
 
 
 def find_interest(p, n, r=3.5):
